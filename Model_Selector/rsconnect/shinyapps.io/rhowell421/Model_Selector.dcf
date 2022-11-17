@@ -5,10 +5,9 @@ account: rhowell421
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7662002
-bundleId: 6525747
+bundleId: 6525915
 url: https://rhowell421.shinyapps.io/Model_Selector/
-when: 1668707276.39956
-lastSyncTime: 1668707276.39958
+when: 1668709889.51711
+lastSyncTime: 1668709889.51712
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: Regression Models Project.Rmd

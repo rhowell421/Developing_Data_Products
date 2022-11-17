@@ -40,3 +40,5 @@ The model takes a slider input for the weight,and returns the MPG prediction usi
 ## Play with the Model!
 
 [Head over to Shinyapps.io to try it out!](https://rhowell421.shinyapps.io/Model_Selector)
+
+[Or, Check out the GitHub and Fork to play](https://github.com/rhowell421/Developing_Data_Products/tree/gh-pages)

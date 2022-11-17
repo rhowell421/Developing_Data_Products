@@ -19,8 +19,9 @@ shinyUI(fluidPage(
     # Sidebar with a slider input for number of bins
     sidebarLayout(
         sidebarPanel(
-            sliderInput("input",
-                        "Predictor Number:",
+          h5("Slide the weight predictor to calcuate expected MPG."),  
+          sliderInput("input",
+                        "Predictor - weight in 1000 lbs:",
                         min(mtcars$wt),
                         max(mtcars$wt),
                         median(mtcars$wt))
