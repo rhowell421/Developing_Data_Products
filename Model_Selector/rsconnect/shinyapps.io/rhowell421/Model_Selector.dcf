@@ -1,0 +1,14 @@
+name: Model_Selector
+title: Model_Selector
+username:
+account: rhowell421
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7662002
+bundleId: 6525747
+url: https://rhowell421.shinyapps.io/Model_Selector/
+when: 1668707276.39956
+lastSyncTime: 1668707276.39958
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Regression Models Project.Rmd
